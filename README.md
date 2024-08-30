@@ -1,6 +1,6 @@
 - 👋 Olá mundo, sou Gabriel, um estudante de ADS
 - 👀 Tenho interesse em tudo que englobe a tecnologia, desde a alocação de memória para uma variável até a automação de processos
-- 🌱 Atualmente estou aprendendo C++, já havia aprendido C e Python 
+- 🌱 Atualmente estou aprendendo C# e C++, já havia aprendido C e Python 
 - 💞️ Gostaria de contribuir com a comunidade e criar novas experiências
 
 <!---
